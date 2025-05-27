@@ -17,7 +17,8 @@ Our GitHub showcases a mix of open-source tools, active projects, and innovative
 📫 Let’s Connect
 Have a project idea or want to collaborate? We’d love to hear from you.
 📧 admin@d3innovatives.com
-🌐 d3innovatives.com
+
+🌐 [d3innovatives.com](https://www.d3innovatives.com/)
 
 Let me know if you'd like this rewritten with a more casual, startup-friendly tone or a more formal, enterprise-oriented voice.
 
