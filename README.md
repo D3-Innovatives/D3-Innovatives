@@ -15,8 +15,6 @@ Have a project idea or want to collaborate? We’d love to hear from you.
 
 🌐 [d3innovatives.com](https://www.d3innovatives.com/)
 
-Let us know if you'd like this rewritten with a more casual, startup-friendly tone or a more formal, enterprise-oriented voice.
-
 <!---
 D3-Innovatives/D3-Innovatives is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
